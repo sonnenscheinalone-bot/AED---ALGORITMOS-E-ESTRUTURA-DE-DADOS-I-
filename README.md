@@ -1,2 +1,2 @@
 # AED-ALGORITMOS-E-ESTRUTURA-DE-DADOS-I-
-Jaqueline.Clara
+Jaqueline_Clara
